@@ -72,6 +72,7 @@ a:focus {
 .navbar-custom .navbar-brand {
     font-weight: 700;
 	font-family: "Josefin Sans", sans-serif;
+	line-height: 25px;
 }
 
 .navbar-custom .navbar-brand:focus {
