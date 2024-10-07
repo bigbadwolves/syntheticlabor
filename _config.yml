@@ -1,0 +1,30 @@
+# Site settings
+title: Synthetic Labor
+email: contact@bigbadwolves.games
+url: https://massivewaves.github.io/syntheticlabor
+description: "Uncover the secrets buried deep within a biotech facility. Navigate deadly creatures, solve puzzles, and fight to survive in this gripping story-driven adventure."
+
+color:
+  primary-dark: '#1C1C1C'
+  links: '#ff6b6b'
+
+# Footer settings
+footer: Massive Waves
+
+social:
+  - title: youtube
+    url:
+  - title: twitter
+    url:
+  - title: instagram
+    url:
+
+images:
+  - src: img/sl1.png
+  - src: img/sl2.png
+  - src: img/sl3.png
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty

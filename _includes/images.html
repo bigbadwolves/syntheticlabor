@@ -1,0 +1,12 @@
+<!-- Images Section -->
+<section id="images" class="container content-section text-center images">
+	<div class="row">
+		<h2>Images</h2>
+
+		{% for img in site.images %}
+			<div class="col-md-12 mb-3">
+				<img src="{{ img.src }}" class="img-fluid">
+			</div>
+		{% endfor %}
+	</div>
+</section>
