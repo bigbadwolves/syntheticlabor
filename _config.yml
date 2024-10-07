@@ -25,6 +25,10 @@ images:
   - src: img/sl3.png
 
 
+header-bg: img/sl5.png
+wishlist-bg: img/sl4.png
+
+
 # Build settings
 markdown: kramdown
 permalink: pretty
